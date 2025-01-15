@@ -1,0 +1,52 @@
+==== Vending Machine Status ====
+Code: A01
+     Title: Potato Chips
+     Price: 28.00 THB
+    Amount: 5
+Code: A02
+     Title: Cookies
+     Price: 17.00 THB
+    Amount: 4
+Total Balance: 45.00 THB
+     10 THB >> 1 Coin(s)
+      5 THB >> 5 Coin(s)
+      1 THB >> 10 Coin(s)
+
+==== User Status ====
+Total Balance: 27.00 THB
+     10 THB >> 2 Coin(s)
+      5 THB >> 1 Coin(s)
+      1 THB >> 2 Coin(s)
+
+==== Order Status ====
+Your order: Potato Chips
+Please insert more 1.00 THB
+
+==== User Status ====
+Total Balance: 32.00 THB
+     10 THB >> 2 Coin(s)
+      5 THB >> 2 Coin(s)
+      1 THB >> 2 Coin(s)
+
+==== Order Status ====
+Your order: Potato Chips
+Change: 4.00 THB
+      1 THB >> 4 Coin(s)
+
+==== Vending Machine Status ====
+Code: A01
+     Title: Potato Chips
+     Price: 28.00 THB
+    Amount: 4
+Code: A02
+     Title: Cookies
+     Price: 17.00 THB
+    Amount: 4
+Total Balance: 73.00 THB
+     10 THB >> 3 Coin(s)
+      5 THB >> 7 Coin(s)
+      1 THB >> 8 Coin(s)
+
+==== User Status ====
+Total Balance: 4.00 THB
+      1 THB >> 4 Coin(s)
